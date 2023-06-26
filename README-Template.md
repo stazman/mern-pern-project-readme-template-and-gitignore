@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See Deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
@@ -17,7 +17,7 @@ Give examples
 
 ### Installing
 
-**A step by step series of examples that tell you how to get a development env running**
+*A step by step series of examples that tell you how to get a development env running*
 
 *Say what the step will be*
 
@@ -128,8 +128,7 @@ ______________
  - *etc*
 
 
-
-### Post-MVP Plans
+## Post-MVP Plans
 
 - *Also called stretch goals*
 - *One great idea I hope to be able to add in before the project deadline.*
@@ -137,7 +136,7 @@ ______________
 - *Something else I don't technically know how to do... *yet*. :)*
 
 
-XXX IMPORTANT! USE THIS SPACE FOR THE SCHEDULE WE END UP MAKING IN CLASS AND ADD ANY PERSONAL INFO AS NEEDED. THE README IS NOT JUST A PLACE TO TELL OTHERS ABOUT THE CODE IN YOUR APP, BUT ALSO IT CAN BE A PART OF THE WAY YOU PLAN AND KEEP TRACK OF YOUR PROGRESS MAKING YOUR APP. BUT MAKE SURE TO DELETE ALL OF TEXT BELOW THIS LINE BEFORE YOU SUBMIT THE PROJECT FINALLY XXX
+## IMPORTANT! REMOVE ALL TEXT IN ITALICS ABOVE AND ALL TEXT BELOW THIS POINT. THE README IS NOT JUST A PLACE TO TELL OTHERS ABOUT THE CODE IN YOUR APP, BUT ALSO IT CAN BE A PART OF THE WAY YOU PLAN AND KEEP TRACK OF YOUR PROGRESS MAKING YOUR APP. ##
 
 
 ## Project Planning
@@ -182,9 +181,9 @@ After you finish making/deploying your game, make sure to update and finalize yo
 
 Make sure your README follows this: 
 
-Remove any template text that doesn’t apply to your own information.
+- Remove any template text that doesn’t apply to your own information.
 
-Proofread your README before leaving it in your Github pinned projects! How-to: Copy the code and run it through a spell checker in Google Docs, Microsoft Word, Grammarly, etc., make any changes, then paste it back in. Also go over it yourself from the beginning to the end, reading it out loud to yourself or passing it off to a second pair of eyes to notice any other issues not caught by a spell- or grammar-checker. 
+- Proofread your README before leaving it in your Github pinned projects! How-to: Copy the code and run it through a spell checker in Google Docs, Microsoft Word, Grammarly, etc., make any changes, then paste it back in. Also go over it yourself from the beginning to the end, reading it out loud to yourself or passing it off to a second pair of eyes to notice any other issues not caught by a spell- or grammar-checker. 
 
 
 More Writing a Good README Resources:
