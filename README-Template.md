@@ -1,6 +1,6 @@
 # Project Title
 
-One Paragraph of project description goes here
+*One Paragraph of project description goes here*
 
 ## Getting Started
 
@@ -8,48 +8,46 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+*What things you need to install the software and how to install them*
 
 ```
 Give examples
 ```
 
+
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+**A step by step series of examples that tell you how to get a development env running**
 
-Say what the step will be
+*Say what the step will be*
 
 ```
 Give the example
 ```
 
-And repeat
+*And repeat*
 
 ```
 until finished
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+## Running the tests *(if there are any)*
 
 
-## Running the tests  (if there are any)
+*Explain how to run the automated tests for this system (if there are any)*
 
+### End-to-end tests *(if there are any)*
 
-Explain how to run the automated tests for this system (if there are any)
-
-### End-to-end tests (if there are any)
-
-Explain what these tests test and why (if there are any)
+*Explain what these tests test and why (if there are any)*
 
 ```
 Give an example 
 ```
 
-### Coding style tests  (if there are any)
+### Coding style tests *(if there are any)*
 
 
-Explain what these tests test and why  (if there are any)
+*Explain what these tests test and why  (if there are any)*
 
 
 ```
@@ -61,7 +59,7 @@ Give an example
 This project is currently deployed at _________________________.
 
 
-Add additional notes about how to deploy this on a live system
+*Add any additional notes about how to deploy this on a live system*
 
 
 ## Built With
@@ -92,52 +90,51 @@ ______________
 
 ## API Endpoints
 
-It’s common for developers to show the various endpoints in their frontend and/or backend API/s as you would find in a third-party API provider. NOTE: You are NOT required to do this for the Milestone 2 Project.
+*It’s common for developers to show the various endpoints in their frontend and/or backend API/s as you would find in a third-party API provider. NOTE: You are NOT required to do this for the Milestone 2 Project.*
 
-This resource shows examples of different ways you can show your endpoints: https://github.com/bufferapp/README/blob/master/billing/api-endpoints.md
+*This resource shows examples of different ways you can show your endpoints: https://github.com/bufferapp/README/blob/master/billing/api-endpoints.md*
 
 
 ## Schema Diagram
 
-You should likely be using a tool (an app, pen and paper, etc.) to make an ERD (Entity Relational Diagram) if you’re using a relational database or a schema diagram if you’re using a document (NoSQL) database. You can usually use the same tool for diagramming for either kind, but here are some top choices:
+*You should likely be using a tool (an app, pen and paper, etc.) to make an ERD (Entity Relational Diagram) if you’re using a relational database or a schema diagram if you’re using a document (NoSQL) database. You can usually use the same tool for diagramming for either kind, but here are some top choices:*
 
-ERD: Usually the RDMS (PostgreSQL, MySQL, etc.) platform being used (PgAdmin, etc.) provides a feature to allow making diagrams from tables you’ve already made in the app.
+*ERD: Usually the RDMS (PostgreSQL, MySQL, etc.) platform being used (PgAdmin, etc.) provides a feature to allow making diagrams from tables you’ve already made in the app.*
 
-How to Make an ERD Diagram in PgAdmin4.
+*How to Make an ERD Diagram in PgAdmin4.*
 
-Draw.io — A Common Choice for ERD Diagrams, Flowcharts, Wireframes
+*Draw.io — A Common Choice for ERD Diagrams, Flowcharts, Wireframes*
 
-NoSQL DB Schema Modeling App: https://nosqldbm.ru/#/
-
-
-ERD Diagram Example: 
+*NoSQL DB Schema Modeling App: https://nosqldbm.ru/#/*
 
 
+*ERD Diagram Example:* 
+
+![ERD Diagram Example](ERD-example.jpg)
 
 
 
 ## License
 
-You don’t have to add a license to your Milestone 2 Project, but you can. It is a common part of a repo that specifies how the project can be used. Kinds of licenses allowing public use are very similar but have small differences that might matter for a specific project. The MIT or GNU general license are usually fine for a public repo.
+*You don’t have to add a license to your Milestone 2 Project, but you can. It is a common part of a repo that specifies how the project can be used. Kinds of licenses allowing public use are very similar but have small differences that might matter for a specific project. The MIT or GNU general license are usually fine for a public repo.*
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+*This project is licensed under the MIT License - see the LICENSE.md file for details*
 
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+ - *Hat tip to anyone whose code was used*
+ - *Inspiration*
+ - *etc*
 
 
 
+### Post-MVP Plans
 
-
-### Post-MVP Plans (Stretch goals)
-
-- One great idea I hope to be able to add in before the project deadline.
-- Another that will be a stretch.
-- Something else I don't technically know how to do... *yet*. :)
+- *Also called stretch goals*
+- *One great idea I hope to be able to add in before the project deadline.*
+- *Another that will be a stretch.*
+- *Something else I don't technically know how to do... *yet*. :)*
 
 
 XXX IMPORTANT! USE THIS SPACE FOR THE SCHEDULE WE END UP MAKING IN CLASS AND ADD ANY PERSONAL INFO AS NEEDED. THE README IS NOT JUST A PLACE TO TELL OTHERS ABOUT THE CODE IN YOUR APP, BUT ALSO IT CAN BE A PART OF THE WAY YOU PLAN AND KEEP TRACK OF YOUR PROGRESS MAKING YOUR APP. BUT MAKE SURE TO DELETE ALL OF TEXT BELOW THIS LINE BEFORE YOU SUBMIT THE PROJECT FINALLY XXX
@@ -153,21 +150,23 @@ XXX IMPORTANT! USE THIS SPACE FOR THE SCHEDULE WE END UP MAKING IN CLASS AND ADD
 DUE by class time on Saturday, July 1:
 
 Each group:
-  Has chosen a project idea
-  their project’s been approved, 
-  they have chosen/understand what tools to use for it
- Has a repo/repos set up according to best practices 
- Has agreed how the workflow is organized — at least who has ownership of the repo and is handing pull requests; who is doing frontend and who is doing backend
- Each group needs to send me a link to the project repo/s by Canvas email
+- Has chosen a project idea
+- Has had their project approved, 
+- Has chosen/understand what tools to use for it
+- Has a repo/repos set up according to best practices 
+- Has agreed how the workflow is organized — at least who has ownership of the repo and is handing pull requests
+- Has agreed on who is doing frontend and who is doing backend
+- Has sent Chris a link to the project repo/s by Canvas email
 
-| Sat. 7/1 | Discuss deployment possibilities and begin preparation fot it; Work day in class |
+| Date | Goals |
+| ---- | ----- |
+| Sat. 7/1 | Discuss deployment possibilities and begin preparation for it; Work day in class |
 | Wed. 7/5 | Work day in class  |
-| Sat. 7/8 | Your project should be deployed and all features contained in the app should work to satisfy all project requirements as shown on Canvas (or the same thing as a Google Doc: https://docs.google.com/document/d/1Rayc4cBqavZ0XV7kgMiNLs0sBL44dgafEgaAQOMgfO0/edit?usp=sharing) The same requirements are also viewable and can be duplicated as a checklist here: https://docs.google.com/document/d/1_XZd4I3_S_znzgsSt7oFbby6tMyHIQ6S4g6DaGCCimg/edit?usp=drivesdk
-)  |  
+| Sat. 7/8 | Your project should be deployed and all features contained in the app should work to satisfy all project requirements as shown on Canvas (or the same thing as a Google Doc: https://docs.google.com/document/d/1Rayc4cBqavZ0XV7kgMiNLs0sBL44dgafEgaAQOMgfO0/edit?usp=sharing) The same requirements are also viewable and can be duplicated as a checklist here: https://docs.google.com/document/d/1_XZd4I3_S_znzgsSt7oFbby6tMyHIQ6S4g6DaGCCimg/edit?usp=drivesdk |  
 | Mon. 7/10 | Submit your completed project. Present your project acc discussed on Canvas and in class.|
 
 
-## REFERENCE
+## REFERENCES
 
 Markdown Writing Cheat Sheet: https://www.markdownguide.org/cheat-sheet/
 
