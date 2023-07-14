@@ -4,7 +4,8 @@
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See Deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See Deployment for a link to where the app is currently running.
+
 
 ### Prerequisites
 
@@ -31,10 +32,25 @@ Give the example
 until finished
 ```
 
+
+## How to Use This App
+
+
+______________
+
+______________
+
+______________ 
+
+______________
+
+______________
+
+
 ## Running the tests *(if there are any)*
 
-
 *Explain how to run the automated tests for this system (if there are any)*
+
 
 ### End-to-end tests *(if there are any)*
 
@@ -62,8 +78,10 @@ This project is currently deployed at _________________________.
 *Add any additional notes about how to deploy this on a live system*
 
 
+
 ## Built With
 
+*List the languages, libraries, frameworks, and third-party services (such as deployment services) used to build the app.*
 
 ______________
 
@@ -79,6 +97,8 @@ ______________
 
 ## Authors
 
+*List the people on your team*
+
 ______________
 
 ______________
@@ -86,31 +106,6 @@ ______________
 ______________ 
 
 ______________
-
-
-## API Endpoints
-
-*It’s common for developers to show the various endpoints in their frontend and/or backend API/s as you would find in a third-party API provider. NOTE: You are NOT required to do this for the Milestone 2 Project.*
-
-*This resource shows examples of different ways you can show your endpoints: https://github.com/bufferapp/README/blob/master/billing/api-endpoints.md*
-
-
-## Schema Diagram
-
-*You should likely be using a tool (an app, pen and paper, etc.) to make an ERD (Entity Relational Diagram) if you’re using a relational database or a schema diagram if you’re using a document (NoSQL) database. You can usually use the same tool for diagramming for either kind, but here are some top choices:*
-
-*ERD: Usually the RDMS (PostgreSQL, MySQL, etc.) platform being used (PgAdmin, etc.) provides a feature to allow making diagrams from tables you’ve already made in the app.*
-
-*How to Make an ERD Diagram in PgAdmin4.*
-
-*Draw.io — A Common Choice for ERD Diagrams, Flowcharts, Wireframes*
-
-*NoSQL DB Schema Modeling App: https://nosqldbm.ru/#/*
-
-
-*ERD Diagram Example:* 
-
-![ERD Diagram Example](ERD-example.jpg)
 
 
 
@@ -135,8 +130,10 @@ ______________
 - *Another that will be a stretch.*
 - *Something else I don't technically know how to do... *yet*. :)*
 
+*After you finish making/deploying your app, make sure to update and finalize the README.md file for the project, which should be in the top level of your files in the repo so that it's viewable right away when a user sees the "home page" of the repo. Of course, Github and your pinned projects are one of the most important ways for you to show potential employers your skill and professionalism. Make sure there are no glaring spelling errors (this is a great extension to spell check in VSCode: https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker).*
 
-## IMPORTANT! REMOVE ALL TEXT IN ITALICS ABOVE AND ALL TEXT BELOW THIS POINT. THE README IS NOT JUST A PLACE TO TELL OTHERS ABOUT THE CODE IN YOUR APP, BUT ALSO IT CAN BE A PART OF THE WAY YOU PLAN AND KEEP TRACK OF YOUR PROGRESS MAKING YOUR APP. ##
+
+*## WHEN YOU'RE READY TO SUBMIT THE PROJECT, MAKE SURE TO REMOVE ALL TEXT IN ITALICS ABOVE AND ALL TEXT BELOW THIS POINT. NOTE: THE README IS NOT JUST A PLACE TO TELL OTHERS ABOUT THE CODE IN YOUR APP, BUT IT CAN ALSO BE A PART OF THE WAY YOU PLAN AND KEEP TRACK OF YOUR PROGRESS BUILDING THE APP. ##*
 
 
 ## Project Planning
@@ -165,26 +162,42 @@ Each group:
 | Mon. 7/10 | Submit your completed project. Present your project acc discussed on Canvas and in class.|
 
 
+## OTHER COMMON PARTS OF A PROFESSIONAL README 
+
+## Contributing 
+
+Please read ____________________________ for details on our code of conduct, and the process for submitting pull requests to us.
+
+
+## API Endpoints
+
+It’s common for developers to show the various endpoints in their frontend and/or backend API/s as you would find in a third-party API provider. 
+
+This resource shows examples of different ways you can show your endpoints: https://github.com/bufferapp/README/blob/master/billing/api-endpoints.md.
+
+
+## Schema Diagram
+
+*You should likely be using a tool (an app, pen and paper, etc.) to make an ERD (Entity Relational Diagram) if you’re using a relational database or a schema diagram if you’re using a document (NoSQL) database. You can usually use the same tool for diagramming for either kind, but here are some top choices:*
+
+*ERD: Usually the RDMS (PostgreSQL, MySQL, etc.) platform being used (PgAdmin, etc.) provides a feature to allow making diagrams from tables you’ve already made in the app.*
+
+*How to Make an ERD Diagram in PgAdmin4.*
+
+*Draw.io — A Common Choice for ERD Diagrams, Flowcharts, Wireframes*
+
+*NoSQL DB Schema Modeling App: https://nosqldbm.ru/#/*
+
+
+*ERD Diagram Example:* 
+
+![ERD Diagram Example](ERD-example.jpg)
+
+
+
 ## REFERENCES
 
-Markdown Writing Cheat Sheet: https://www.markdownguide.org/cheat-sheet/
-
-
-## OPTIONAL (BUT HIGHLY RECOMMENDED) POST-PROJECT STEPS:
-
-Make a Demo: You can use Zoom or many other free/freemium tools to make a screen recording, but you should check out Loom. It is widely used for very professional-looking demos: https://www.loom.com/. Don’t be confused if you use Loom; the free tier is totally free and has all you need.
-
-Here’s one I made for a project demo (which is nice to have for your resume/Github repo, too, but for this project you can make a simple one that doesn’t have to be so perfect): https://www.loom.com/share/389c0f9eec3c430e84ec8cb16c293614
-
-
-After you finish making/deploying your game, make sure to update and finalize your README for the project. Remember, Github and your pinned projects are one of the most important ways for you to show potential employers your skill and professionalism.
-
-Make sure your README follows this: 
-
-- Remove any template text that doesn’t apply to your own information.
-
-- Proofread your README before leaving it in your Github pinned projects! How-to: Copy the code and run it through a spell checker in Google Docs, Microsoft Word, Grammarly, etc., make any changes, then paste it back in. Also go over it yourself from the beginning to the end, reading it out loud to yourself or passing it off to a second pair of eyes to notice any other issues not caught by a spell- or grammar-checker. 
-
+Markdown Writing Cheat Sheet: https://www.markdownguide.org/cheat-sheet
 
 More Writing a Good README Resources:
 
@@ -194,14 +207,6 @@ https://silentlad.com/how-to-write-beautiful-and-meaningful-readme.md
 Deep Dive into Markdown:
 https://daringfireball.net/projects/markdown/syntax#philosophy
 
-## OTHER COMMON PARTS OF A PROFESSIONAL README 
 
-## Contributing 
-
-Please read ____________________________ for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning 
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 
