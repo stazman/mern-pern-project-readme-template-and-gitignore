@@ -118,7 +118,7 @@ ______________
 
 ## Acknowledgments
 
- - *Hat tip to anyone whose code was used*
+ - *Citing someone else's code or resources used in the project*
  - *Inspiration*
  - *etc*
 
@@ -140,8 +140,8 @@ ______________
 
 | Date | Goals |
 | ---- | ----- |
-| Mon. 6/26| Discuss project guidelines and resources; create repo and README.md for the project; teams and decide on a topic to be approved by the instructors|
-| Wed. 6/28 | stand up meetings; by break time after the first hour of class, all teams must have team members, tools and languages to use, someone assigned to be in charge of the project repo/s, and topic must be finalized; Work day in class; |     
+| Sat. 2/3| Discuss project guidelines and resources; create repo and README.md for the project; teams and decide on a topic to be approved by the instructors then start working according to team git workflow process|
+| Mon. 2/5| Meet in main room then hold standup meetings in breakout rooms; by break time after the first hour of class, all teams must have team members, tools and languages to use, someone assigned to be in charge of the project repo/s, and topic must be finalized; Work day in class; |     
 
 DUE by class time on Saturday, July 1:
 
@@ -156,10 +156,10 @@ Each group:
 
 | Date | Goals |
 | ---- | ----- |
-| Sat. 7/1 | Discuss deployment possibilities and begin preparation for it; Work day in class |
-| Wed. 7/5 | Work day in class  |
-| Sat. 7/8 | Your project should be deployed and all features contained in the app should work to satisfy all project requirements as shown on Canvas (or the same thing as a Google Doc: https://docs.google.com/document/d/1Rayc4cBqavZ0XV7kgMiNLs0sBL44dgafEgaAQOMgfO0/edit?usp=sharing) The same requirements are also viewable and can be duplicated as a checklist here: https://docs.google.com/document/d/1_XZd4I3_S_znzgsSt7oFbby6tMyHIQ6S4g6DaGCCimg/edit?usp=drivesdk |  
-| Mon. 7/10 | Submit your completed project. Present your project acc discussed on Canvas and in class.|
+| Wed. 2/7 | Meet in main room then hold standup meetings in breakout rooms; Discuss deployment possibilities and begin preparation for it; Work day in class |
+| Sat. 2/10 | Meet in main room then hold standup meetings in breakout rooms; Work day in class  |
+| Mon. 2/12 | Meet in main room then hold standup meetings in breakout rooms; Your project should be deployed and all features contained in the app should work to satisfy all project requirements as shown on Canvas (or the same thing as a Google Doc: https://docs.google.com/document/d/1Rayc4cBqavZ0XV7kgMiNLs0sBL44dgafEgaAQOMgfO0/edit?usp=sharing) The same requirements are also viewable and can be duplicated as a checklist here: https://docs.google.com/document/d/1_XZd4I3_S_znzgsSt7oFbby6tMyHIQ6S4g6DaGCCimg/edit?usp=drivesdk |  
+| Wed. 2/14 | Meet in main room then hold standup meetings in breakout rooms; submit your completed project. Present your project according to plan as discussed on Canvas and in class.|
 
 
 ## OTHER COMMON PARTS OF A PROFESSIONAL README 
