@@ -140,11 +140,12 @@ ______________
 
 | Date | Goals |
 | ---- | ----- |
-| Sat. 2/3| Discuss project guidelines and resources; create repo and README.md for the project; teams and decide on a topic to be approved by the instructors then start working according to team git workflow process|
-| Mon. 2/5| Meet in main room then hold standup meetings in breakout rooms; by break time after the first hour of class, all teams must have team members, tools and languages to use, someone assigned to be in charge of the project repo/s, and topic must be finalized; Work day in class; |    | Wed. 2/7 | Meet in main room then hold standup meetings in breakout rooms; Discuss deployment possibilities and begin preparation for it; Work day in class |
-| Sat. 2/10 | Meet in main room then hold standup meetings in breakout rooms; Work day in class  |
-| Mon. 2/12 | Meet in main room then hold standup meetings in breakout rooms; Your project should be deployed and all features contained in the app should work to satisfy all project requirements as shown on Canvas (or the same thing as a Google Doc: https://docs.google.com/document/d/1Rayc4cBqavZ0XV7kgMiNLs0sBL44dgafEgaAQOMgfO0/edit?usp=sharing) The same requirements are also viewable and can be duplicated as a checklist here: https://docs.google.com/document/d/1_XZd4I3_S_znzgsSt7oFbby6tMyHIQ6S4g6DaGCCimg/edit?usp=drivesdk |  
-| Wed. 2/14 | Meet in main room then hold standup meetings in breakout rooms; submit your completed project. Present your project according to plan as discussed on Canvas and in class.|
+| Sat. 2/3| Discuss project guidelines and resources; teams choose roles and team project specs; set up project repo; git team workflow demo and practice; team management app selection and feature brainstorm|
+| Mon. 2/5| Meet in main room for a few minutes then hold standup meetings in breakout rooms; Work day in class; |    
+| Wed. 2/7 | Meet in main room for a few minutes then hold standup meetings in breakout rooms; Discuss deployment possibilities and begin preparation for it; Work day in class |
+| Sat. 2/10 | Meet in main room for a few minutes then hold standup meetings in breakout rooms; Work day in class; end of Sprint 1 (development) |
+| Mon. 2/12 | Final standup meeting; start/complete Sprint 2 (finalization); Your project should be deployed and all features contained in the app should work to satisfy all project requirements as shown on Canvas (and the adapted requirements shown in your team's Project Plan doc |  
+| Wed. 2/14 | Meet in main room then hold final standup meetings in breakout rooms; submit your completed project and project requirements checklist on your team's Project Plan Doc; Present your project according to plan as discussed on Canvas and in class; hold Sprint 2 retrospective |
 
 
 ## OTHER COMMON PARTS OF A PROFESSIONAL README 
