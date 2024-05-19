@@ -47,35 +47,32 @@ ______________
 ______________
 
 
-## Running the tests *(if there are any)*
+## Running the tests *(if there are any... otherwise, don't include this section at all)*
 
-*Explain how to run the automated tests for this system (if there are any)*
-
-
-### End-to-end tests *(if there are any)*
-
-*Explain what these tests test and why (if there are any)*
-
-```
-Give an example 
-```
-
-### Coding style tests *(if there are any)*
+*Explain how to run the automated tests for their system/s and why they're included(if there are any automated tests ... otherwise, don't include this section at all)*
 
 
-*Explain what these tests test and why  (if there are any)*
+### End-to-end tests *(if there are any... otherwise, don't include this section at all)*
 
+*Explain what these end-to-end tests test and why they're included (if there are any... otherwise, don't include this section at all)*
 
 ```
-Give an example
+Give an example (if there are any end-to-end tests... otherwise, don't include this section at all)
+```
+
+### Coding style tests *(if there are any... otherwise, don't include this section at all)*
+
+
+*Explain what the coding style tests test and why they're included (if there are any... otherwise, don't include this section at all)*
+
+
+```
+Give an example (if there are any tests... otherwise, don't include this section at all)
 ```
 
 ## Deployment
 
 This project is currently deployed at _________________________.
-
-
-*Add any additional notes about how to deploy this on a live system*
 
 
 
@@ -140,12 +137,13 @@ ______________
 
 | Date | Goals |
 | ---- | ----- |
-| Sat. 2/3| Discuss project guidelines and resources; teams choose roles and team project specs; set up project repo; git team workflow demo and practice; team management app selection and feature brainstorm|
-| Mon. 2/5| Meet in main room for a few minutes then hold standup meetings in breakout rooms; Work day in class; |    
-| Wed. 2/7 | Meet in main room for a few minutes then hold standup meetings in breakout rooms; Discuss deployment possibilities and begin preparation for it; Work day in class |
-| Sat. 2/10 | Meet in main room for a few minutes then hold standup meetings in breakout rooms; Work day in class; end of Sprint 1 (development) |
-| Mon. 2/12 | Final standup meeting; start/complete Sprint 2 (finalization); Your project should be deployed and all features contained in the app should work to satisfy all project requirements as shown on Canvas (and the adapted requirements shown in your team's Project Plan doc |  
-| Wed. 2/14 | Meet in main room then hold final standup meetings in breakout rooms; submit your completed project and project requirements checklist on your team's Project Plan Doc; Present your project according to plan as discussed on Canvas and in class; hold Sprint 2 retrospective |
+| Sun. 5/19| Discuss project guidelines and resources; teams choose roles and team project specs; set up project repo; git team workflow demo and practice; team management app selection and feature brainstorm|
+| Tues. 5/21| Meet in main room for a few minutes then hold brief standup meetings in breakout rooms before continuing to work on the project during class |    
+| Thurs. 5/23 | Meet in main room to discuss deployment possibilities and begin preparation for deployment. Then teams hold brief standup meetings in breakout rooms, discuss possible deployment platform/s and choose it/them, then continue to work on the project in class. |
+| Sun. 5/26 | Memorial Day Holiday; no class |
+| Tues. 5/28 | Meet in the main room for a few minutes then hold final standup meetings before presentation day; your project should be deployed, and all features contained in the app should work to satisfy all project requirements as shown on Canvas, in the Grading Sheet Example on the widget, and your team's Project Plan doc |  
+| Thurs. 5/30 | Meet in main room for a few minutes then meet in breakout rooms to fix up any loose ends toward deployment and make sure all assignment specs are met (except polishing up the README.md); do a final check and submit your completed project and project requirements checklist on your team's Project Plan Doc; in the last 1-1.5 hours of class, your team will present your project according to brief specs discussed on Canvas and in class |
+
 
 
 ## OTHER COMMON PARTS OF A PROFESSIONAL README 
@@ -162,17 +160,18 @@ It’s common for developers to show the various endpoints in their frontend and
 This resource shows examples of different ways you can show your endpoints: https://github.com/bufferapp/README/blob/master/billing/api-endpoints.md.
 
 
-## Schema Diagram
+## ERD/Schema Diagram
 
-*You should likely be using a tool (an app, pen and paper, etc.) to make an ERD (Entity Relational Diagram) if you’re using a relational database or a schema diagram if you’re using a document (NoSQL) database. You can usually use the same tool for diagramming for either kind, but here are some top choices:*
+*You should likely be using a tool (an app, pen and paper, etc.) to make an ERD (Entity Relational Diagram) and you may or may not put it in your README.*
 
-*ERD: Usually the RDMS (PostgreSQL, MySQL, etc.) platform being used (PgAdmin, etc.) provides a feature to allow making diagrams from tables you’ve already made in the app.*
+*if you’re using a UI platform such as PgAdmin4 for a relational database, there's usually a built-in feature that makes an ERD diagrams from your tables for you automatically! PgAdmin4 has this feature.*
 
-*How to Make an ERD Diagram in PgAdmin4.*
+*However, this won't work if you're sketching out your tables from the beginning, which is a great way to organize them in your mind, especially with a table with many fields and/or associations.
 
-*Draw.io — A Common Choice for ERD Diagrams, Flowcharts, Wireframes*
+*In that case, you should use an external tool such as Visual Paradigm: https://online.visual-paradigm.com/. This has proven to be the best for making ERD diagrams from scratch, IMHO, than the commonly used Draw.io. Visual Paradigm's free tier is forever and feature-rich.* 
 
-*NoSQL DB Schema Modeling App: https://nosqldbm.ru/#/*
+
+*As for making a schema diagram for a document database (i.e., a NoSQL database such as MongoDb), you'll likely have to use an external tool for it. The easiest one for it I've seen is here: https://nosqldbm.ru/#/*
 
 
 *ERD Diagram Example:* 
